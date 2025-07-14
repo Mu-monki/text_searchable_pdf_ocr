@@ -1,1 +1,1 @@
-# text_searchable_pdf_ocr
+# Text Searchable PDF/ Text Extractor
